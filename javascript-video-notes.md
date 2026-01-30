@@ -1,4 +1,5 @@
-**Beginning the series** - This video introduced the course and explained what i'll learn about javascript.**what is javascript?**- i learned that javascript makes websites interactive and runs both in the browser and on servers
+**Beginning the series** - This video introduced the course and explained what i'll learn about javascript.
+**what is javascript?**- i learned that javascript makes websites interactive and runs both in the browser and on servers
 **setting up your environment**- this showed how to install node.js and choose a code editor so i can start coding
 **Running javascript-** i learned how to run javascript files using the terminal or console.
 **Comments-** comments help explain code and make it easier to understand later
